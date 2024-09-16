@@ -1,0 +1,2 @@
+type "fl" to activate filelist, then type the file/folder after it prompts you with "search" to search for/in, example: "/rom/programs/". it is still a work in progress though.
+when you need to exit fl press "*" after it has provided a file list
